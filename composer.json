@@ -1,0 +1,14 @@
+{
+    "name": "user/4laba",
+    "description": "4laba",
+    "authors": [
+        {
+            "name": "dexter82323",
+            "email": "vlad.veresklya@yandex.ru"
+        }
+    ],
+    "require": {
+        "neoxygen/neoclient":"^3.3",
+        "graphaware/neo4j-php-client": "^4.8"
+    }
+}
