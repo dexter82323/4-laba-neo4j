@@ -22,3 +22,5 @@
 ## Вывод картинок находится:
 - controllers/GalleryController actionGallery
 - views/gallery/gallery
+
+## Дамп базы данных находится в корне архива (gallery.sql)
