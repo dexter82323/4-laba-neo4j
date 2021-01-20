@@ -20,6 +20,7 @@ $results=$client->getRows();
 <table >
     <tr>
         <th>Name</th>
+        <th>test</th>
         <th>Gender</th>
         <th>Age</th>
         <th>City</th>
